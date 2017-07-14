@@ -1,8 +1,7 @@
 # AlexaBillyBass
 Alexa speaking through a beautiful Big Mouth Billy Bass
-
-
-![Alt text](/images/20161218_131436.jpg "Big Mouth Alexa Wiring Config")
+Click the image below to watch the video.
+[![Watch the video](https://github.com/NickEngmann/AlexaBillyBass/blob/master/images/20161218_131436.jpg)](http://inswiki.com/media/1408197678827161192_255996982/)
 
 Custom housing for smart home utility tool. <br>
 Or in laymans terms, I took the audio output of Amazon's Alexa and funneled it through a Arduino to convert the audio into DC motor movements. <br>
@@ -11,7 +10,7 @@ The orignial guide only included lip movements and I customized it to add in hea
 </br>
 </br>
 # Technical Specifics:
-ArduinoUNO</br>
+ArduinoUNO </br>
 Audio To DC Converter</br>
 </br></br>
 <a href="http://inswiki.com/media/1408197678827161192_255996982" target="_blank"> Video of It in Action</a></br>
